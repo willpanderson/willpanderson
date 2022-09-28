@@ -1,19 +1,20 @@
 
 ### Hello there, I'm William 👋. Welcome to my repository profile - [willpanderson](https://github.com/willpanderson)
 
-## Areas of Interest:
+## These are My Areas of Interest:
 
 - Hardware-Based Projects
 - Mobile App Development
 - Web Development 
 
-## Contact Links:
+## Here's My Contact Links:
 
 - Email: william.anderson@mavs.uta.edu
 - Website: [willpanderson.github.io](https://willpanderson.github.io)
 - LinkedIn: [Click here](https://www.linkedin.com/in/william-anderson-a8b8a1161)
 - Resume: [Click here](https://github.com/willpanderson/willpanderson/blob/main/My_Resume.pdf)
-## Languages and Tools:
+
+## Languages, Frameworks and Tools I Work With:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudiocode]
 
