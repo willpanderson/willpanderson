@@ -11,8 +11,7 @@
 
 - Email: william.anderson@mavs.uta.edu
 - Website: [willpanderson.github.io](https://willpanderson.github.io)
-- Resume: [Click to see resume]
-
+- Resume: [Click to see resume](https://github.com/willpanderson/willpanderson/blob/main/My_Resume.pdf)
 ## Languages and Tools:
 
 
