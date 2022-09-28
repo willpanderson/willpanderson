@@ -20,7 +20,7 @@
 
 [<img align="left" alt="Angular" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" />][angular]
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
+[<img align="left" alt="Python" width="26px" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png/>][python]
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 
@@ -39,6 +39,7 @@
 
 [visualstudiocode]: https://code.visualstudio.com/
 [angular]: https://angular.io/
+[python]: https://www.python.org/
 [html5]: https://developer.mozilla.org/ca/docs/Web/Guide/HTML/HTML5
 [css3]: https://developer.mozilla.org/en-US/docs/Archive/CSS3
 [sass]: https://sass-lang.com/
