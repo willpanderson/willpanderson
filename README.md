@@ -7,7 +7,7 @@
 - Mobile App Development
 - Web Development 
 
-## Suggestions and Ideas for any of these projects are always welcomed.
+## Have a Suggestion or Idea?
 
 - Email: william.anderson@mavs.uta.edu
 - Website: [willpanderson.github.io](https://willpanderson.github.io)
