@@ -1,7 +1,7 @@
 
 ### Hello there, I'm Will 👋. Welcome to my repository profile - [willpanderson](https://github.com/willpanderson)
 
-## Areas of Interest
+## Areas of Interest:
 
 - Hardware-Based Projects
 - Mobile App Development
