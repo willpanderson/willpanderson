@@ -1,5 +1,5 @@
 
-### Hello there, I'm Will 👋. Welcome to my repository profile - [willpanderson](https://github.com/willpanderson)
+### Hello there, I'm William 👋. Welcome to my repository profile - [willpanderson](https://github.com/willpanderson)
 
 ## Areas of Interest:
 
