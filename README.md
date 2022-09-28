@@ -1,7 +1,7 @@
 
 ### Hello there, I'm Will 👋. Welcome to my repository profile - [willpanderson](https://github.com/willpanderson)
 
-## I'm a Software Engineer based out of Arlington, TX and here are the projects that I have worked on.
+## Areas of Intrest
 
 - Hardware-Based Projects
 - Mobile App Development
