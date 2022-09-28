@@ -6,7 +6,8 @@
 - Hardware-Based Projects
 - Mobile App Development
 - Web Development 
-- Suggestions and Ideas for any of these projects are always welcomed.
+
+## Suggestions and Ideas for any of these projects are always welcomed.
 
 ## Languages and Tools:
 
