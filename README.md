@@ -3,7 +3,7 @@
 
 ## I'm a Software Engineer and here are the projects that I have worked on.
 
-- Hardware-based projects.
+- Hardware-Based Projects.
 - Mobile App Development
 - Web Development 
 - Suggestions and Ideas for any of these projects are always welcomed.
