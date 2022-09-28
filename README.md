@@ -7,12 +7,12 @@
 - Mobile App Development
 - Web Development 
 
-## Here's My Contact Links:
+## Here's My Contact Links and Important Info About Me:
 
-- Email: william.anderson@mavs.uta.edu
-- Website: [willpanderson.github.io](https://willpanderson.github.io)
-- LinkedIn: [Click here](https://www.linkedin.com/in/william-anderson-a8b8a1161)
-- Resume: [Click here](https://github.com/willpanderson/willpanderson/blob/main/My_Resume.pdf)
+- [Email](mailto:william.anderson@mavs.uta.edu)
+- [Website](https://willpanderson.github.io)
+- [LinkedIn](https://www.linkedin.com/in/william-anderson-a8b8a1161)
+- [Resume](https://github.com/willpanderson/willpanderson/blob/main/My_Resume.pdf)
 
 ## Languages, Frameworks, and Tools I Work With:
 
