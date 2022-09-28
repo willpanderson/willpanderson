@@ -9,6 +9,10 @@
 
 ## Suggestions and Ideas for any of these projects are always welcomed.
 
+- Email: william.anderson@mavs.uta.edu
+- Website: [willpanderson.github.io](https://willpanderson.github.io)
+
+
 ## Languages and Tools:
 
 
