@@ -1,12 +1,6 @@
 
 ### Hello there, I'm William 👋. Welcome to my repository profile - [willpanderson](https://github.com/willpanderson)
 
-## These are My Areas of Interest:
-
-- Hardware-Based Projects
-- Mobile App Development
-- Web Development 
-
 ## Here's My Contact Links and Important Info About Me:
 
 - [Email](mailto:william.anderson@mavs.uta.edu)
